@@ -1,0 +1,16 @@
+.DevImage{
+    float: left;
+    border-radius: 50%;
+    margin-top:10% ;
+    margin-left: 12%;
+    margin-bottom:10%;
+    object-fit: cover;
+;
+}
+.DevInfo{
+    float: right;
+    align-items: center;
+    align-content: center;
+    margin-top: 15%;
+    margin-right: 15% ;
+}
