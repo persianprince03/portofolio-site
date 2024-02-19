@@ -16,11 +16,14 @@ function App() {
         <div className="landing">
         <DevCard />
         </div>
-        <Hobbies />
         <FLProjects />
-        <Skills />
         <ExtraCurricular />
         <WorkExperience />
+        <Hobbies />
+        <div className="skillsDiv">
+        <Skills />
+        </div>
+
         <ContactInfo />
       </header>
     </div>

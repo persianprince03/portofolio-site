@@ -1,8 +1,8 @@
 .App {
 
   /*text-align: center;*/
+  background-color: #89CCF0;
 
-  background-color: #282c34;
 }
 
 .App-logo {
@@ -42,4 +42,12 @@
 .landing{
   background-color: bisque;
   color: #2c2828;
+}
+.skillsDiv{
+  align-content: center;
+  justify-content: center;
+  background-color: #282c34;
+  padding: 10%;
+  object-fit: fill;
+
 }

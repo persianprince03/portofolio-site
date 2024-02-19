@@ -7,8 +7,8 @@ function Profile(){
             <img className='DevImage'
                 src={headshot}
                 alt= "PD_Headshot"
-                width="257.34"
-                height="257.34"
+                width="300vw"
+                height="300vh"
                 // className="DevImage"
 
             />
@@ -25,6 +25,7 @@ export default function DevCard() {
             <p>Student, Developer, Freelancer</p>
             </div>
             <Profile />
+        {/*    Add LinkedIn and Github*/}
         </div>
     );
 }

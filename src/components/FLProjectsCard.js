@@ -11,6 +11,7 @@ function FLProjectCard (props) {
                 </div>
             </div>
             <ul>
+                <br/>
                 {props.bullets.map((bullet) =>{
                     return(
                         <li>{bullet}</li>

@@ -1,0 +1,21 @@
+.FLProjectsTittle{
+    font-size: 70px;
+    padding-right:10%;
+    padding-left: 6%;
+
+    padding-top:2% ;
+
+    background-color: coral;
+}
+.FLProjectCard{
+    padding: 4%;
+}
+.FLProjectCardHeaderText{
+    /*float: right;*/
+    margin-right: 13%;
+    /*margin-top: 3%;*/
+}
+ul{
+    margin-top: 100%;
+    list-style-type: circle ;
+}

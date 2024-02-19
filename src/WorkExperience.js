@@ -1,5 +1,6 @@
 import {WorkExperienceData} from "./Data/WorkExperienceData";
 import WorkExperienceCard from "./components/WorkExperienceCard";
+import './WorkExperience.css'
 
 function WorkExperience(){
     return(
@@ -16,7 +17,7 @@ function WorkExperience(){
                     />
                 );
             })}
-            <button>For Complete resume click here</button>
+            {/*<button>For Complete resume click here</button>*/}
 
         </div>
     )

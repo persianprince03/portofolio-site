@@ -21,6 +21,6 @@ li{
 }
 .NavBox{
     position: fixed;
-    width: 100%;
+    width: 100vw;
     color: #282c34;
 }
