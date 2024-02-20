@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portofolio-site/static/css/main.a1e14518.css",
-    "main.js": "/portofolio-site/static/js/main.fa9d0589.js",
+    "main.css": "/portofolio-site/static/css/main.07993a22.css",
+    "main.js": "/portofolio-site/static/js/main.eac822d4.js",
     "static/js/453.0aaee2e2.chunk.js": "/portofolio-site/static/js/453.0aaee2e2.chunk.js",
     "static/media/headshot.jpeg": "/portofolio-site/static/media/headshot.68bb5d8a2291b85717f2.jpeg",
     "static/media/ATS_Parsa.pdf": "/portofolio-site/static/media/ATS_Parsa.123b76619fbfc19f571d.pdf",
@@ -11,12 +11,12 @@
     "static/media/MissouriS&T_Horizontal_Miner_RGB.png": "/portofolio-site/static/media/MissouriS&T_Horizontal_Miner_RGB.d74e94710bc293291658.png",
     "static/media/Screenshot 2024-02-18 at 8.40.46 AM.png": "/portofolio-site/static/media/Screenshot 2024-02-18 at 8.40.46 AM.d243fd5e3163aa159845.png",
     "index.html": "/portofolio-site/index.html",
-    "main.a1e14518.css.map": "/portofolio-site/static/css/main.a1e14518.css.map",
-    "main.fa9d0589.js.map": "/portofolio-site/static/js/main.fa9d0589.js.map",
+    "main.07993a22.css.map": "/portofolio-site/static/css/main.07993a22.css.map",
+    "main.eac822d4.js.map": "/portofolio-site/static/js/main.eac822d4.js.map",
     "453.0aaee2e2.chunk.js.map": "/portofolio-site/static/js/453.0aaee2e2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1e14518.css",
-    "static/js/main.fa9d0589.js"
+    "static/css/main.07993a22.css",
+    "static/js/main.eac822d4.js"
   ]
 }
