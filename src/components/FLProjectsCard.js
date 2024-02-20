@@ -3,22 +3,24 @@ import "../App.css";
 
 function FLProjectCard (props) {
     return (
-        <div className='FLProjectCard'>
-            <div className='FLProjectCardHeader'>
+        <div className='contentCard'>
+            <div>
                 <img src={props.image} alt={props.title} className='FLProjectCardImage'/>
-                <div className='FLProjectCardHeaderText'>
-                    <h1>{props.client}</h1>
+
+                <div style={{float:"right"}}>
+                    <h1 style={{fontSize:40}}>{props.client}</h1>
+                    <ul>
+                        <br/>
+                        {props.bullets.map((bullet) => {
+                            return (
+                                <li>{bullet}</li>
+                            );
+                        })}
+                    </ul>
                 </div>
             </div>
-            <ul>
-                <br/>
-                {props.bullets.map((bullet) =>{
-                    return(
-                        <li>{bullet}</li>
-                    );
-                })}
-            </ul>
         </div>
+
     );
 }
 

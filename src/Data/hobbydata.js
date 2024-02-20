@@ -4,30 +4,29 @@ export const Hobbydata = [
         // Cycling and Working Out
 
         title: "Working Out",
-        description: "I like working out and my favorite sport after cycling is cheerleading. As a software developer I belive " +
-            "in mental well-being as it helps significantly with finding solutions for any subject",
+        description:
+
+        "I enjoy working out, and my favorite sport, after cycling, is cheerleading. As a software developer, I believe in mental well-being, as it significantly aids in finding solutions for any subject.",
         image : ''
     },
     {
         // Coding
         title: "Coding",
-        description :"I enjoy programing.It is nice to come up with solutions and automations that make everyone's lives" +
-            "easier, my favorite language is python and my favorite type of projects are full-stack applications",
+        description :
+        "I enjoy programming. It's rewarding to devise solutions and automations that simplify everyone's lives. My favorite language is Python, and I particularly enjoy working on full-stack application projects.",
         image : ''
 },
     {
 
     // Traveling
     title: "Traveling",
-    description: "I like traveling because it exposes to me to a lot of different cultures. It also exposes me to a lot of " +
-        "good foods and great experiences that will help me to think how to solve problems differently",
+    description:
+        "I enjoy traveling because it exposes me to a variety of different cultures. It also introduces me to diverse cuisines and provides great experiences that help me think about problem-solving in unique ways.",
 },
             // Working on Cars
     {
         title:"Cars",
-        description: "I grew up with cars and I always appreciated complex mechanical object that have 4 wheels. One of my career" +
-            "goals is that to program and design software for automotive, whether it is related to a cars performance or" +
-            "multimedia systems",
+        description: "I grew up with cars, and I always appreciated complex mechanical objects that have four wheels. One of my career goals is to program and design software for automotive applications, whether it is related to a car's performance or multimedia systems.",
         image: ''
 
 },

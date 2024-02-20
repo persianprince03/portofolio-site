@@ -1,9 +1,9 @@
 
 function WorkExperienceCard (props){
     return (
-        <div className={'WorkExperienceCard'}>
+        <div className='contentCard'>
             <div className='WorkExperienceHeader'>
-                <img src = {props.image} alt={props.title} className='WorkExperienceImage'/>
+                <img src = {props.image} alt={props.title} className='WorkExperienceImage' />
                 <div className='WorkExprieneceHeaderText'>
                     <h1>{props.company}</h1>
                     <h2>{props.title}</h2>

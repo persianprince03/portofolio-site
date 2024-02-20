@@ -8,8 +8,8 @@ export const WorkExperienceData = [
         image:mst,
         timeFrame:'April 2023 - Current',
         bullets: [
-            'PutStuffHere','PutStuffHere','PutStuffHere','PutStuffHere','PutStuffHere','PutStuffHere','PutStuffHere',
-            'PutStuffHere','PutStuffHere',
+            'Enhanced, delivered, and packaged applications to campus machines using AppsAnywhere','Developed Automation Scripts using AutoIt PowerShell and Visual Basic to activate the license for applications'
+            ,'Operated Virtual Machines using Microsoft System Center Virtual Machine Manager for development and testing environment '
         ]
     },
     {
@@ -18,8 +18,10 @@ export const WorkExperienceData = [
         image: machq,
         timeFrame: 'Februry 2022 - August 2022',
         bullets: [
-            'PutStuffHere','PutStuffHere','PutStuffHere','PutStuffHere','PutStuffHere','PutStuffHere',
-            'PutStuffHere','PutStuffHere','PutStuffHere','PutStuffHere','PutStuffHere','PutStuffHere',
+	"Sold more than $20000 worth of product in one day as a team",
+	"Provided basic helpdesk support within 5 minutes",
+	"Collected extensive knowledge of Apple products for the purpose of electronics sale",
+	"Assisted customers with exceptional service above the management expectations"
         ]
     },
 ]

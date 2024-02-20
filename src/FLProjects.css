@@ -1,12 +1,4 @@
-.FLProjectsTittle{
-    font-size: 70px;
-    padding-right:10%;
-    padding-left: 6%;
 
-    padding-top:2% ;
-
-    background-color: coral;
-}
 .FLProjectCard{
     padding: 4%;
 }
@@ -19,3 +11,7 @@ ul{
     margin-top: 100%;
     list-style-type: circle ;
 }
+.fuller{
+    width: 100%;
+}
+

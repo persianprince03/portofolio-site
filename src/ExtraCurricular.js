@@ -3,8 +3,9 @@ import ExtraCurricularCard from "./components/ExtraCurricularCard";
 
 function ExtraCurricular(){
     return (
-        <div>
-            <h2>Extra Curricular Activities </h2>
+        <div id='EXC'>
+            <h1 className="Tittle">Extra Curricular Activities </h1>
+
             { ExtraCurricularData.map((val,key) => {
                 return (
                     <ExtraCurricularCard
@@ -18,6 +19,7 @@ function ExtraCurricular(){
             })}
         </div>
     )
+
 }
 
 export default ExtraCurricular;

@@ -2,8 +2,8 @@ import {Hobbydata} from './Data/hobbydata'
 import HobbyCard from "./components/HobbyCard";
 function Hobbies(){
    return (
-       <div>
-           <h2>My Hobbies</h2>
+       <div id = 'Hobbies'>
+           <h1 className="Tittle">My Hobbies</h1>
            { Hobbydata.map((val,key) => {
                return (
                    <HobbyCard

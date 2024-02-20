@@ -4,8 +4,8 @@ import './WorkExperience.css'
 
 function WorkExperience(){
     return(
-        <div>
-            <h2>My Work Experience</h2>
+        <div id='Work'>
+            <h1 className="Tittle">My Work Experience</h1>
             {WorkExperienceData.map((val, key) => {
                 return (
                     <WorkExperienceCard

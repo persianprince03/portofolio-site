@@ -1,0 +1,13 @@
+
+.contact a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 5px;
+    text-decoration: none;
+}
+
+.contact a:hover{
+    background-color: rgba(17, 17, 17, 0.7);
+
+}

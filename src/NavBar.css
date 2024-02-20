@@ -1,26 +1,40 @@
 /*TODO: Palettes light brown and baby blue*/
-.NavBar {
-    /*position: absolute;*/
-    /*object-fit: cover;*/
-
-}
-/*.DevImage{*/
-/*    border-radius: 50%;*/
-/*    object-fit: cover;*/
-
-.Menu{
-    float: right;
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-
-li{
-
-    display: inline;
+@media screen and (max-width: 765px) {
+    .NavBox {
+        position: fixed;
+        top: 0;
+        right: -100%;
+        background-color: hsla(0, 0%, 6%, 0.2);
+        backdrop-filter: blur(16px);
+        -webkit-backdrop-filter: blur(16px);
+        width: 80%;
+        height: 100%;
+        padding: 6rem 3rem 0;
+        transition: right 0.4s;
+    }
 }
 .NavBox{
+    list-style-type: none;
+    margin: 0;
+    padding: 0px;
+    overflow: hidden;
+    background-color: #333;
     position: fixed;
-    width: 100vw;
-    color: #282c34;
+    width: 100%;
+}
+
+.NavButton {
+    float: left;
+}
+
+.NavButton a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.NavButton a:hover {
+    background-color: #111;
 }

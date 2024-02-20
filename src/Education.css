@@ -1,0 +1,21 @@
+.eduLeft{
+    padding-top: 10%;
+
+}
+
+.eduRight{
+    padding: 3%;
+}
+.download{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    background-color: #333333;
+    margin: 3%;
+}
+
+/*.download :hover{*/
+/*    background-color: rgb(255, 0, 0);*/
+/*}*/
