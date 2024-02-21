@@ -8,7 +8,7 @@ function NavBar(){
         <ul className="NavBox">
             <li className="NavButton"><a className="active" href="#Education">Education</a></li>
             <li className="NavButton"><a href="#Freelance">Freelance Projects</a></li>
-            <li className="NavButton"><a href="#Extra">Extra Curricular</a></li>
+            <li className="NavButton"><a href="#EXC">Extra Curricular</a></li>
             <li className="NavButton"><a href="#Work">Work Experience</a></li>
             <li className="NavButton"><a href="#Skills">Skills</a></li>
             <li className="NavButton"><a href="#Hobbies">Hobbies</a></li>
@@ -19,3 +19,6 @@ function NavBar(){
 
 
 export default NavBar;
+
+
+
