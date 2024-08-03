@@ -1,14 +1,20 @@
 import React from 'react';
 import "../App.css";
-
+import { Row } from "react-bootstrap";
+import {Col} from "react-bootstrap";
 function FLProjectCard (props) {
     return (
-        <div className='contentCard'>
-            <div>
-                <img src={props.image} alt={props.title} className='FLProjectCardImage'/>
+        < Row className='justify-content-md-center'>
+            <Col xs lg="5">
+                <img src={props.image} alt={props.title} className='FLProjectCardImage' style={{margin:20}}/>
+                </Col>
 
-                <div style={{float:"right"}}>
+                <Col style={{float:"right"}}>
+                <Row>
                     <h1 style={{fontSize:40}}>{props.client}</h1>
+                    </Row>
+                <Row>
+
                     <ul>
                         <br/>
                         {props.bullets.map((bullet) => {
@@ -17,9 +23,11 @@ function FLProjectCard (props) {
                             );
                         })}
                     </ul>
-                </div>
-            </div>
-        </div>
+                    </Row>
+
+                </Col>
+                
+        </Row>
 
     );
 }

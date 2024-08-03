@@ -1,7 +1,20 @@
 import machq from '../media/machq.png';
 import mst from '../media/MissouriS&T_Horizontal_Miner_RGB.png';
+import hunter from '../media/logo-hunter-whitered.svg'
 
 export const WorkExperienceData = [
+    {
+        company: "Hunter Enginnering Comapany",
+        title: "Data Science Co-op",
+        image: hunter,
+        timeFrame: 'June 2024 - January 2025',
+        bullets: [
+	"Utilized React, Python, Microsoft SQL, and FastAPI to create robust and scalable solutions.",
+	"Implemented effective UI design improvements, enhancing user experience and efficiency of data annotation. ",
+	"Developed solutions to streamline and automate the acquisition of training data. ",
+
+        ]
+    },
     {
         company: "Missouri University of Science and Technology",
         title: "Student IT Assistant",
@@ -12,16 +25,5 @@ export const WorkExperienceData = [
             ,'Operated Virtual Machines using Microsoft System Center Virtual Machine Manager for development and testing environment '
         ]
     },
-    {
-        company: "Mac Headquarters",
-        title: "Technical Consultant",
-        image: machq,
-        timeFrame: 'Februry 2022 - August 2022',
-        bullets: [
-	"Sold more than $20000 worth of product in one day as a team",
-	"Provided basic helpdesk support within 5 minutes",
-	"Collected extensive knowledge of Apple products for the purpose of electronics sale",
-	"Assisted customers with exceptional service above the management expectations"
-        ]
-    },
+
 ]

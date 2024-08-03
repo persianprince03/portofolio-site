@@ -10,6 +10,7 @@ import WorkExperience from "./WorkExperience";
 import ContactInfo from "./ContactInfo";
 import Education from "./Education";
 import resume from './media/ATS_Parsa.pdf'
+import { Stack } from 'react-bootstrap';
 
 function App() {
   return (
@@ -18,7 +19,7 @@ function App() {
             <div className="landing">
               <DevCard/>
             </div>
-
+          <Stack gap={3}>
             <Education/>
             <a href={resume} download='ParsaDivanbeigiResume' className='download'>Download Resume</a>
 
@@ -37,6 +38,7 @@ function App() {
 
 
             <ContactInfo/>
+            </Stack>
           </header>
         </div>
   );

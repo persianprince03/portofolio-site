@@ -4,10 +4,12 @@ import Typewriter from "typewriter-effect";
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 import {faGithub} from "@fortawesome/free-brands-svg-icons/faGithub";
 import {faLinkedin} from "@fortawesome/free-brands-svg-icons/faLinkedin";
+import { Row } from "react-bootstrap";
+import { Col } from "reactstrap";
 function Profile(){
     return(
-        <div>
-        <div className='DevCard'>
+        <Row>
+        <Col className='DevCard'>
             <img className='DevImage'
                 src={headshot}
                 alt= "PD_Headshot"
@@ -16,8 +18,8 @@ function Profile(){
                 // className="DevImage"
 
             />
-        </div>
-    </div>
+        </Col>
+    </Row>
     );
 }
 
@@ -28,11 +30,13 @@ export default function DevCard() {
             <Profile />
                 <h1>Parsa Divanbeigi</h1>
                 <Typewriter
-                    options={{
+options={{
+    
                         strings:[
                             "Student","Developer","Freelancer"],
                         autoStart: true,
                         loop: true,
+                        
                     }}/>
             </div>
             <a href="https://github.com/persianprince03" className="icon"><FontAwesomeIcon icon={faGithub } size={"2xl"}/></a>

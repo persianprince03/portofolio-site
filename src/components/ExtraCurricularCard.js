@@ -1,10 +1,11 @@
 import React from 'react';
 import "../App.css";
-
+import { Col } from 'react-bootstrap';
+import { Row } from 'reactstrap';
 function ExtraCurricularCard (props) {
     return (
-        <div className='contentCard'>
-            <div>
+        <Row className='justify-content-md-center' style={{margin:20}}>
+            <Col md='auto' lg='8'>
                 <img src={props.image} alt={props.title} className='ECimg'/>
                     <div   style={{float:'right'}}>
                         <h1 >{props.org}</h1>
@@ -21,8 +22,8 @@ function ExtraCurricularCard (props) {
                             })}
                         </ul>
                     </div>
-                </div>
-            </div>
+                </Col>
+            </Row>
 
     );
 }
