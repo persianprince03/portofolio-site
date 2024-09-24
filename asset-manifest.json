@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portofolio-site/static/css/main.9005d8e2.css",
-    "main.js": "/portofolio-site/static/js/main.97bbbbfd.js",
+    "main.js": "/portofolio-site/static/js/main.fb293ad4.js",
     "static/js/453.0aaee2e2.chunk.js": "/portofolio-site/static/js/453.0aaee2e2.chunk.js",
     "static/media/headshot.jpeg": "/portofolio-site/static/media/headshot.68bb5d8a2291b85717f2.jpeg",
     "static/media/ATS_Parsa.pdf": "/portofolio-site/static/media/ATS_Parsa.8c69e2da8ed94f0e11ec.pdf",
@@ -13,11 +13,11 @@
     "static/media/logo-hunter-whitered.svg": "/portofolio-site/static/media/logo-hunter-whitered.6ea227cd03c4cb0b87deceec922064fa.svg",
     "index.html": "/portofolio-site/index.html",
     "main.9005d8e2.css.map": "/portofolio-site/static/css/main.9005d8e2.css.map",
-    "main.97bbbbfd.js.map": "/portofolio-site/static/js/main.97bbbbfd.js.map",
+    "main.fb293ad4.js.map": "/portofolio-site/static/js/main.fb293ad4.js.map",
     "453.0aaee2e2.chunk.js.map": "/portofolio-site/static/js/453.0aaee2e2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9005d8e2.css",
-    "static/js/main.97bbbbfd.js"
+    "static/js/main.fb293ad4.js"
   ]
 }
