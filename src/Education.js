@@ -14,7 +14,7 @@ function Education(){
             style={{float:'right'}}/>
             <h2>Missouri University of Science and Technology</h2>
             <h3>Major: Computer Science</h3>
-            <h3>GPA: 3.8/4.0</h3>
+            <h3>GPA: 3.7/4.0</h3>
                 </div>
             </div>
 

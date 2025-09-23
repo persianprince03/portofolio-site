@@ -5,7 +5,7 @@ function Skills(){
     return(
         <div id="Skills" className='skills' >
 
-                <h2>Programing Skills</h2>
+                <h2>Programming Skills</h2>
                 <Typewriter
                     options={{
                         strings:[
@@ -14,7 +14,16 @@ function Skills(){
                             "JavaScript",
                             "SQL",
                             "ReactJS",
-                            "Bash"],
+                            "Bash",
+                            "Flutter",
+                            "PyTorch",
+                            "FastAPI",
+                            "AWS",
+                            "Docker",
+                            "Git",
+                            "HTML/CSS",
+                        ],
+                       
                         autoStart: true,
                         loop: true,
                         size: 10,
@@ -27,6 +36,7 @@ function Skills(){
                         "Microsoft Virtual Machine Management",
                         "AppsAnywhere Software Packaging",
                         "Microsoft business 365 Admin",
+                        "Webflow",
                         ],
                     autoStart: true,
                     loop: true
@@ -41,6 +51,7 @@ function Skills(){
                         "Communication",
                         "Creativity",
                         "Bilingual: Farsi And English",
+                        "Jira"
                        ],
                     autoStart: true,
                     loop: true
