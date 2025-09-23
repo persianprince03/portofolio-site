@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/portofolio-site/static/css/main.07993a22.css",
-    "main.js": "/portofolio-site/static/js/main.4f459712.js",
-    "static/js/453.0aaee2e2.chunk.js": "/portofolio-site/static/js/453.0aaee2e2.chunk.js",
-    "static/media/headshot.jpeg": "/portofolio-site/static/media/headshot.68bb5d8a2291b85717f2.jpeg",
-    "static/media/machq.png": "/portofolio-site/static/media/machq.651b79f920883efe0b06.png",
-    "static/media/ATS_Parsa.pdf": "/portofolio-site/static/media/ATS_Parsa.b2639e315c1c033376f2.pdf",
-    "static/media/PRIMARY_BANNER_FC.png": "/portofolio-site/static/media/PRIMARY_BANNER_FC.ea34a6a1ab32c9c23260.png",
-    "static/media/lwa.jpeg": "/portofolio-site/static/media/lwa.b6bcacfbf4073d59843b.jpeg",
-    "static/media/MissouriS&T_Horizontal_Miner_RGB.png": "/portofolio-site/static/media/MissouriS&T_Horizontal_Miner_RGB.d74e94710bc293291658.png",
-    "static/media/Screenshot 2024-02-18 at 8.40.46 AM.png": "/portofolio-site/static/media/Screenshot 2024-02-18 at 8.40.46 AM.d243fd5e3163aa159845.png",
-    "static/media/intelag.png": "/portofolio-site/static/media/intelag.eb71fb4477cfd218f453.png",
-    "index.html": "/portofolio-site/index.html",
-    "main.07993a22.css.map": "/portofolio-site/static/css/main.07993a22.css.map",
-    "main.4f459712.js.map": "/portofolio-site/static/js/main.4f459712.js.map",
-    "453.0aaee2e2.chunk.js.map": "/portofolio-site/static/js/453.0aaee2e2.chunk.js.map"
+    "main.css": "/portfolio-site/static/css/main.07993a22.css",
+    "main.js": "/portfolio-site/static/js/main.4fe7abbd.js",
+    "static/js/453.aac68abc.chunk.js": "/portfolio-site/static/js/453.aac68abc.chunk.js",
+    "static/media/headshot.jpeg": "/portfolio-site/static/media/headshot.68bb5d8a2291b85717f2.jpeg",
+    "static/media/machq.png": "/portfolio-site/static/media/machq.651b79f920883efe0b06.png",
+    "static/media/ATS_Parsa.pdf": "/portfolio-site/static/media/ATS_Parsa.b2639e315c1c033376f2.pdf",
+    "static/media/PRIMARY_BANNER_FC.png": "/portfolio-site/static/media/PRIMARY_BANNER_FC.ea34a6a1ab32c9c23260.png",
+    "static/media/lwa.jpeg": "/portfolio-site/static/media/lwa.b6bcacfbf4073d59843b.jpeg",
+    "static/media/MissouriS&T_Horizontal_Miner_RGB.png": "/portfolio-site/static/media/MissouriS&T_Horizontal_Miner_RGB.d74e94710bc293291658.png",
+    "static/media/Screenshot 2024-02-18 at 8.40.46 AM.png": "/portfolio-site/static/media/Screenshot 2024-02-18 at 8.40.46 AM.d243fd5e3163aa159845.png",
+    "static/media/intelag.png": "/portfolio-site/static/media/intelag.eb71fb4477cfd218f453.png",
+    "index.html": "/portfolio-site/index.html",
+    "main.07993a22.css.map": "/portfolio-site/static/css/main.07993a22.css.map",
+    "main.4fe7abbd.js.map": "/portfolio-site/static/js/main.4fe7abbd.js.map",
+    "453.aac68abc.chunk.js.map": "/portfolio-site/static/js/453.aac68abc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.07993a22.css",
-    "static/js/main.4f459712.js"
+    "static/js/main.4fe7abbd.js"
   ]
 }
